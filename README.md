@@ -2,7 +2,7 @@
 Репозиторий для практических занятий секций Планетных и Экзопланетных Исследований Летней Космической Школы 2025
 
 ## В чем мы работаем?
-Все файлы курса находятся в интерактивных `jupter-notebook`-ах. Это смесь текстового языка разметки `markdown` и кода на `python`. `jupyter notebook` и большая часть нужных нам модулей входят в состав пакета `anaconda`. [Здесь](https://github.com/teimy/lksh2024-planets/blob/master/anaconda-installation-guide.md) можно прочитать инструкцию по установке анаконды, а [здесь](https://github.com/teimy/lksh2024-planets/blob/master/jupyter-how-to.md) инструкция по тому, как запустить `jupyter notebook`. **Если у вас не запускается `jupyter notebook`**, обратите внимание на конец [инструкции](https://github.com/teimy/lksh2024-planets/blob/master/anaconda-installation-guide.md)!
+Все файлы курса находятся в интерактивных `jupter-notebook`-ах. Это смесь текстового языка разметки `markdown` и кода на `python`. `jupyter notebook` и большая часть нужных нам модулей входят в состав пакета `anaconda`. [Здесь](https://github.com/teimy/lksh2025-planets-exoplanets/blob/main/anaconda-installation-guide.md) можно прочитать инструкцию по установке анаконды, а [здесь](https://github.com/teimy/lksh2025-planets-exoplanets/blob/main/jupyter-how-to.md) инструкция по тому, как запустить `jupyter notebook`. **Если у вас не запускается `jupyter notebook`**, обратите внимание на конец [инструкции](https://github.com/teimy/lksh2025-planets-exoplanets/blob/main/anaconda-installation-guide.md)!
 
 ## Как скачать файлы с `github`?
 Нажать зеленую кнопку `<> code` справа сверху от списка файлов, выбрать `Download zip`. Распаковать `zip` файл.
