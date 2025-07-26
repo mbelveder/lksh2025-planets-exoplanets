@@ -1,5 +1,5 @@
-# lksh2024-planets
-Репозиторий для практических занятий секции Планетных Исследований Летней Космической Школы 2024
+# lksh2025-planets-exoplanets
+Репозиторий для практических занятий секций Планетных и Экзопланетных Исследований Летней Космической Школы 2025
 
 ## В чем мы работаем?
 Все файлы курса находятся в интерактивных `jupter-notebook`-ах. Это смесь текстового языка разметки `markdown` и кода на `python`. `jupyter notebook` и большая часть нужных нам модулей входят в состав пакета `anaconda`. [Здесь](https://github.com/teimy/lksh2024-planets/blob/master/anaconda-installation-guide.md) можно прочитать инструкцию по установке анаконды, а [здесь](https://github.com/teimy/lksh2024-planets/blob/master/jupyter-how-to.md) инструкция по тому, как запустить `jupyter notebook`. **Если у вас не запускается `jupyter notebook`**, обратите внимание на конец [инструкции](https://github.com/teimy/lksh2024-planets/blob/master/anaconda-installation-guide.md)!
